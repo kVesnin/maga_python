@@ -2,4 +2,4 @@ services:
   latex-generator:
     build: .
     volumes:
-      - ./artifacts:/app/artifacts
+      - ./artifacts:/artifacts
